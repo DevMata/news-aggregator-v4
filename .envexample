@@ -1,0 +1,10 @@
+NYT_KEY=new york time's api key
+GUARDIAN_KEY=the guardian api key
+NEWS_KEY=news API key
+JWT_SECRET=secret pass for JWT
+
+DB_HOST=host
+DB_PORT=port
+DB_USER=user
+DB_PASS=super pass
+DB_NAME=news-aggregator
